@@ -7,3 +7,4 @@ Onboarding Project for the Open-Source Development Team
 - Alternatively, you can modify or delete an existing contribution: Ohio > Michigan.
 - Hi! This is a contribution from Eric.
 - Did I fork Correctly...?
+- There be whales here!
