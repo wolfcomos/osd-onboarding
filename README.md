@@ -6,4 +6,4 @@ Onboarding Project for the Open-Source Development Team
 - JS is the best language!
 - Alternatively, you can modify or delete an existing contribution: Ohio > Michigan.
 - Hi! This is a contribution from Eric.
-- Hello!
+- Did I fork Correctly...?
