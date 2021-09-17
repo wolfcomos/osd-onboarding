@@ -17,6 +17,7 @@ Onboarding Project for the Open-Source Development Team
 - Hello all! - Moe Q
 - Yo
 - Hello! This is a contribution from Marco.
+- hello, something written here
 - Updated `hello.cpp` :)
 - Where am I? How Did i Get HeeRe??-
 - Pineapples on pizza is just OK
