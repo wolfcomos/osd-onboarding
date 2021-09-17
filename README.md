@@ -18,3 +18,4 @@ Onboarding Project for the Open-Source Development Team
 - Yo
 - Hello! This is a contribution from Marco.
 - Updated `hello.cpp` :)
+- What's up
